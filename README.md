@@ -5,21 +5,17 @@
 - 📱 Sou apaixonado por tecnologia em geral.
 - 📷 Também gosto de fotografia.
 -->
-
-
 <div>
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rayalvessouza&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayalvessouza&layout=compact&langs_count=7&theme=calm"/>
 </div>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Ray-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Ray-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ray-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Ray-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-      <img align="center" alt="Ray-mackenzie" height="100" width="100" src="https://www.mackenzie.br/fileadmin/CONFIGURACOES/DEFAULT_21/Resources/Public/Template/img/logo/mackenzie_w.svg">
-    
+      <img align="center" alt="Ray-mackenzie" height="100" width="100" src="https://www.mackenzie.br/fileadmin/CONFIGURACOES/DEFAULT_21/Resources/Public/Template/img/logo/mackenzie_w.svg"> 
 </div>
   
   ##
